@@ -1,7 +1,10 @@
-package com.laosiji.test;
+package com.laosiji.thread;
 
-public class Main {
-
+/**
+ * @Author: Gosin
+ * @Date: 2017/12/9
+ */
+public class Demo1_Sington {
     public static void main(String[] args) {
         Singleton s1 = Singleton.getInstance();
         Singleton s2 = Singleton.getInstance();
@@ -12,7 +15,7 @@ public class Main {
 /**
  * 饿汉式
  */
-/*class Singleton {
+class Singleton {
     //1.私有构造方法，其他类不能访问该构造方法
     private Singleton() {};
     //2.创建本类对象
@@ -21,7 +24,7 @@ public class Main {
     public static Singleton getInstance() {//获取实例
         return s;
     }
-}*/
+}
 
 /**
  * 懒汉式(单例的延迟加载模式)
@@ -39,3 +42,5 @@ public class Main {
         return s;
     }
 }*/
+
+
