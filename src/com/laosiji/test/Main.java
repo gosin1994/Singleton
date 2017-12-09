@@ -19,7 +19,7 @@ public class Main {
     private static Singleton s = new Singleton();
     //3.对外提供公共的访问方法
     public static Singleton getInstance() {//获取实例
-        retrun s;
+        return s;
     }
 }*/
 
@@ -34,7 +34,7 @@ class Singleton {
     //3.对外提供公共的访问方法
     public static Singleton getInstance() {//获取实例
         if (s == null) {
-            s == new Singleton();
+            s = new Singleton();
         }
         return s;
     }
