@@ -26,7 +26,7 @@ public class Main {
 /**
  * 懒汉式(单例的延迟加载模式)
  */
-class Singleton {
+/*class Singleton {
     //1.私有构造方法，其他类不能访问该构造方法
     private Singleton() {};
     //2.声明引用
@@ -38,4 +38,4 @@ class Singleton {
         }
         return s;
     }
-}
+}*/
