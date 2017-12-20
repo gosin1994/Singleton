@@ -8,6 +8,6 @@
 #### [五.synchronized、Lock、ReentrantLock、ReadWriteLock？]()
 #### [六.介绍下CAS(无锁技术)？]()
 #### [七.什么是ThreadLocal？]()
-#### [八.创建线程池的4种方式？]()
+#### [八.创建线程池的4种方式？](thread/创建线程池的四种方式.md)
 #### [九.ThreadPoolExecutor的内部工作原理？]()
 #### [十.分布式环境下，怎么保证线程安全？]()
