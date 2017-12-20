@@ -2,7 +2,7 @@
 ### 线程相关问题（必问）
 
 #### [一.创建线程的三种方式？](https://github.com/gosin1994/thread/blob/master/%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F.md)
-#### [二.什么是线程安全？什么是线程不安全？]()
+#### [二.什么是线程安全？什么是线程不安全？](https://github.com/gosin1994/thread/blob/master/%E4%BB%80%E4%B9%88%E6%98%AF%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E5%92%8C%E7%BA%BF%E7%A8%8B%E4%B8%8D%E5%AE%89%E5%85%A8.md)
 #### [三.Runnable接口和Callable接口的区别？]()
 #### [四.wait方法和sleep方法的区别？]()
 #### [五.synchronized、Lock、ReentrantLock、ReadWriteLock？]()
