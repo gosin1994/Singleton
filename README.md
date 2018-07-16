@@ -12,3 +12,4 @@
 #### [九.ThreadPoolExecutor的内部工作原理？]
 #### [十.分布式环境下，怎么保证线程安全？]
 #### [十一.ThreadLocal和同步机制](https://github.com/gosin1994/thread/blob/master/ThreadLocal%E5%92%8C%E5%90%8C%E6%AD%A5%E6%9C%BA%E5%88%B6.md)
+### [40个java多线程问题总结](http://www.cnblogs.com/xrq730/p/5060921.html?utm_source=tuicool&utm_medium=referral)
